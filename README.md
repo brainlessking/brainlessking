@@ -2,8 +2,14 @@
 <p> I'm @brainlessking , I'm a 17 year old Moroccan, and I'm new to Programming/Coding, but I really enjoy it. Feel Free to contact me using Discord!</p>
 <h1>💻Programming Languages </h1>
 <p float="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,html,css" alt="My Skills">
+<a href="https://docs.python.org/3/">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS">
 </a>
 </p>
 <p> Python only For the moment, and some HTML/CSS Basics :/</p>
